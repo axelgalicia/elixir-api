@@ -17,3 +17,5 @@ IO.puts(add.(5, 3))
 # Linked Lists
 ages = [64, 56, 23, 33]
 IO.puts(ages)
+
+# Tuples
