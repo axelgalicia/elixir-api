@@ -19,3 +19,13 @@ ages = [64, 56, 23, 33]
 IO.puts(ages)
 
 # Tuples
+tuple_one = {
+  "Alex",
+  33,
+  44.03,
+  :testing,
+  true,
+  0xFF,
+  0o777,
+  0b0001,
+}
